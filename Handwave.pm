@@ -11,7 +11,7 @@ use vars qw($VERSION @EXPORT @ISA);
 
 @ISA = qw(Exporter);
 @EXPORT = qw(handwave);
-$VERSION = '0.01';
+$VERSION = '0.01.1';
 
 =head1 NAME
 
