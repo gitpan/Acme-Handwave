@@ -1,0 +1,31 @@
+Acme/Handwave version 0.01
+==========================
+
+Ah well, it's time I contributed to the Acme namespace. The rest of
+london.pm seems to have.
+
+Acme::Handwave is for those annoying occasions when you know your
+input data, and you know what you want out of it, but you don't know
+how to get there programatically. Now, you can just handwave, and the
+data will magically be what you want it to be.
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+It's an Acme:: module. Don't be ridiculous.
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2002 Simon Kent
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself. 
+
